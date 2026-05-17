@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WhatsAppMonitor" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#075E54</item>
+        <item name="colorPrimaryVariant">#128C7E</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#25D366</item>
+        <item name="colorSecondaryVariant">#128C7E</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+    </style>
+</resources>
